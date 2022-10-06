@@ -1,2 +1,2 @@
 # deFANG
-Alferd workflow that defangs and refangs domains, ips, and urls
+Alfred workflow that defangs and refangs domains, emails, ips, and urls
